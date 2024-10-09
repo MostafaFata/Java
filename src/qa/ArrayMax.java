@@ -1,7 +1,7 @@
 package qa;
 
 
-public class Q1 {
+public class ArrayMax {
 
     public static void main(String[] args) {
         // Write a program to find the largest number in an array in Java.

@@ -1,4 +1,4 @@
-public class Question3 {
+public class RemovingDuplicates {
     public static void main(String[] args) {
         // Removing Duplicates from Strings
         String str = "ABCKLMMNAOPCCXXX";

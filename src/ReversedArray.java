@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Question6 {
+public class ReversedArray {
     public static void main(String[] args) {
         // Reversing an Array
         int[] myArray = {0, 5, 10, 15, 20};

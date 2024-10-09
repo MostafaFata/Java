@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Question8 {
+public class Anagram {
     public static void main(String[] args) {
         // Solving Anagram Problems
         // Anagram means two different strings made of same letters but different orders

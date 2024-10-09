@@ -1,4 +1,4 @@
-public class Question1 {
+public class DigitCombination {
     public static void main(String[] args){
 
         // Write a function that prints all 3 digit combination of numbers

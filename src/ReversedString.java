@@ -1,4 +1,4 @@
-public class Question5 {
+public class ReversedString {
     public static void main(String[] args) {
 
         // Reversing a String

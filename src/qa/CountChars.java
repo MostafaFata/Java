@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
-public class Q4 {
+public class CountChars {
     // write a java program to count the number of each character used in a word
     public static void main(String[] args) {
 

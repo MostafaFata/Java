@@ -1,6 +1,6 @@
 
 
-public class Question9 {
+public class Palindrome {
     public static void main(String[] args) {
         // How to Solve Palindrome Problems
         // Palindrome: a string that reads the same forwards and backwards.

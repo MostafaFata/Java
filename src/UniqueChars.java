@@ -1,4 +1,4 @@
-public class Question4 {
+public class UniqueChars {
     public static void main(String[] args) {
         // Spotting Unique Characters in a String
 

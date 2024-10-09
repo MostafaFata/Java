@@ -1,4 +1,4 @@
-public class Question2 {
+public class ExtractDigitSum {
 
     public static void main(String[] args) {
         //  Extract and Sum Digits in a given String

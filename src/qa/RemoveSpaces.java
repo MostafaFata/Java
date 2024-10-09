@@ -1,6 +1,6 @@
 package qa;
 
-public class Q6 {
+public class RemoveSpaces {
     public static void main(String[] args) {
         // remove white spaces from a sentence
 

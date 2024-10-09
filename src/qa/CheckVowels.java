@@ -1,6 +1,6 @@
 package qa;
 
-public class Q3 {
+public class CheckVowels {
     public static void main(String[] args) {
         // Write a Java program to check if a vowel is present in a string.
         String str = "Hello";
