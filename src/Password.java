@@ -1,4 +1,4 @@
-public class Question10 {
+public class Password {
     public static void main(String[] args) {
         // Strong Password Checker
         /*
