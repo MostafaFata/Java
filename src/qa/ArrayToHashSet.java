@@ -3,7 +3,7 @@ package qa;
 import java.util.Arrays;
 import java.util.HashSet;
 
-public class Q7 {
+public class ArrayToHashSet {
     public static void main(String[] args) {
 
         // Solution to converting an array to a HashSet without looping:

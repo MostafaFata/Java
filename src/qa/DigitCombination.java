@@ -1,3 +1,5 @@
+package qa;
+
 public class DigitCombination {
     public static void main(String[] args){
 

@@ -1,3 +1,5 @@
+package qa;
+
 public class ExtractDigitSum {
 
     public static void main(String[] args) {

@@ -1,9 +1,11 @@
+package qa;
+
 import java.util.Arrays;
 
 public class Anagram {
     public static void main(String[] args) {
-        // Solving Anagram Problems
-        // Anagram means two different strings made of same letters but different orders
+        // Solving qa.Anagram Problems
+        // qa.Anagram means two different strings made of same letters but different orders
 
         String str1 = "heart";
         String str2 = "earth";
@@ -24,9 +26,9 @@ public class Anagram {
 
         // compare arrays
         if (Arrays.equals(arr1, arr2)){
-            System.out.println("Anagram");
+            System.out.println("qa.Anagram");
         }else{
-            System.out.println("Not Anagram");
+            System.out.println("Not qa.Anagram");
         }
 
     }

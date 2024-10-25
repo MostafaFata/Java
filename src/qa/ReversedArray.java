@@ -1,3 +1,5 @@
+package qa;
+
 import java.util.Arrays;
 
 public class ReversedArray {

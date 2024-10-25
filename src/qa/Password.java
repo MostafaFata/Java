@@ -1,8 +1,10 @@
+package qa;
+
 public class Password {
     public static void main(String[] args) {
-        // Strong Password Checker
+        // Strong qa.Password Checker
         /*
-        Password must:
+        qa.Password must:
             - be at least 8 characters
             - contain at least 1 Uppercase letter
             - contain at least 1 Lowercase letter
@@ -15,7 +17,7 @@ public class Password {
 
         // first check if the password includes whitespace
         if (password.contains(" ")){
-            System.out.println("Invalid Password");
+            System.out.println("Invalid qa.Password");
             return;
         }
 

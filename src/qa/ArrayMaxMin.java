@@ -1,3 +1,5 @@
+package qa;
+
 public class ArrayMaxMin {
     public static void main(String[] args) {
         // Find Maximum and Minimum in an Array

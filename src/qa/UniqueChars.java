@@ -1,3 +1,5 @@
+package qa;
+
 public class UniqueChars {
     public static void main(String[] args) {
         // Spotting Unique Characters in a String
@@ -14,6 +16,9 @@ public class UniqueChars {
 
         System.out.println(uniques);
 
+        // the lastIndexOf() method is used
+        // to find the last occurrence of a specified character
+        // or substring within a string or an ArrayList.
 
     }
 }
