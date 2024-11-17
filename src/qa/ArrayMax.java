@@ -8,9 +8,9 @@ public class ArrayMax {
         int [] numbers = {1, 2, 10, 4, 0, 5};
         int max = numbers[0]; // assume that the first element of the array is the largest
 
-        for (int i = 0; i < numbers.length; i++){
-            if (numbers[i] > max){ // compare the max value against each element in the array
-                max = numbers[i];
+        for(int num : numbers){
+            if (num > max){
+                max = num;
             }
         }
         System.out.println(max);

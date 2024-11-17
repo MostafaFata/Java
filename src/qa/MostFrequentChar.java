@@ -22,7 +22,7 @@ public class MostFrequentChar {
         }
 
         int max = 0;
-        char ch = '\0';
+        char ch = Character.MIN_VALUE;
         for(char c : map.keySet()){
             if (map.get(c) > max){
                 max = map.get(c);
