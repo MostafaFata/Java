@@ -16,10 +16,10 @@ public class ExtractNumbers {
     public static List<Integer> extractNumbers(String sentence){
 
         // use the following regular expression to match numbers (integer or decimal)
-        String regex = "\\b\\d+\\b";
+        String regex = "\\b\\d+\\b"; // or use this "\\b[0-9]+\\b"
                         /*
                         *   \b Word boundary to ensure we capture whole numbers
-                        *   \d means if digit
+                        *   \d means if digit, or you can use [0-9]
                         *   + means one or more occurrences
                         */
 
@@ -30,6 +30,7 @@ public class ExtractNumbers {
 
         while (matcher.find()){
             String numberString = matcher.group();
+            // matcher.group returns the entire matched subsequence found by the previous match operation.
             numbers.add(Integer.parseInt(numberString));
         }
 

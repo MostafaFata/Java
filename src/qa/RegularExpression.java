@@ -62,6 +62,7 @@ Regular Expressions:
         \W              not a word character
         \s              Find a whitespace character
         \S              non-whitespace
+        \b              checks for boundaries e.g. extracting whole number
         .               Any single character
         a{3}            Exactly 3 of a: aaa
         a{3,}           3 or more of a
