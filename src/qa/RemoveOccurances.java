@@ -13,4 +13,18 @@ public class RemoveOccurances {
 
     }
 
+    public static String removeChar(String str, Character ch){
+        StringBuilder removed = new StringBuilder();
+
+        for (int i=0; i < str.length(); i++){
+            char c = str.charAt(i);
+            if (c != ch){
+                removed.append(c);
+            }
+        }
+
+        return removed.toString();
+
+    }
+
 }
