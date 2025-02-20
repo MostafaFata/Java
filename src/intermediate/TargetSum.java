@@ -1,4 +1,4 @@
-package qa;
+package intermediate;
 
 import java.util.Arrays;
 import java.util.HashMap;

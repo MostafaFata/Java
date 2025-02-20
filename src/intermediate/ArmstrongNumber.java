@@ -1,4 +1,4 @@
-package qa;
+package intermediate;
 
 public class ArmstrongNumber {
     // what is an Armstrong number:
